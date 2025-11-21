@@ -83,7 +83,8 @@ Say:
 ---
 
 ## 👨‍💻 Developed By
-**Junaid Shabdi**  
+**ABDUL KARIM**  
 AI-powered Voice Interaction System
 
 ✨ Thank you for checking out the project! ✨
+
